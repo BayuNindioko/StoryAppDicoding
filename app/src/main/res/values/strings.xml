@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="have_account">Don\'t have account?</string>
+    <string name="sign_up_button">Sign Up</string>
+    <string name="name">name</string>
+    <string name="name_story">%s Stories</string>
+    <string name="create_accout_text">Create your account now!</string>
+    <string name="change_language">Change Language</string>
+    <string name="log_out">Log Out</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="logo">logo</string>
+    <string name="enter_your_name">Enter your name</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="upload">Upload</string>
+    <string name="description">description</string>
+    <string name="story">Story</string>
+    <string name="detail_template">this is story description</string>
+    <string name="image">image</string>
+    <string name="story_image">story image</string>
+    <string name="password_check">Your password must be at least 8 characters long</string>
+    <string name="email_check">Invalid email format</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">Maps</string>
+
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satellite</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+    <string name="retry">Retry</string>
+</resources>
